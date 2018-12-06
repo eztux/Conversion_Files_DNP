@@ -1,0 +1,8 @@
+{
+  "name": "",
+  "version": "",
+  "dependencies": {
+    "fast-csv": "^2.4.1",
+    "mongoose": "^5.3.13"
+  }
+}
